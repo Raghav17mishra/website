@@ -1,0 +1,92 @@
+body{
+    
+    text-align: center;
+  
+    font-family: 'Merriweather', serif;
+  
+}
+h1{
+   color: #66BFBF;
+    margin: 0 auto 0 auto;
+    font-family: 'Qahiri', sans-serif;
+    font-size: 50px;
+    
+}
+h2{
+    color: #66BFBF;
+}
+h3{
+
+}
+.guitar{
+    width: 25%;
+    float: left;
+    margin-right: 20px;
+}
+.bike{
+    width: 25%;
+    float: right;
+    margin-left: 20px;
+}
+.gui{
+\\clear: right;
+}
+.bottom-cloud{
+    position: absolute;
+    left:300px;
+    bottom: 300px;
+
+}
+.skill-row
+{
+    width: 50%;
+    margin: 100 auto 100 auto;
+    text-align: left;
+    line-height: 2;
+}
+.top-cloud{
+    position: absolute;
+    right:300px;
+    top: 50px;
+}
+.top-container
+{
+background-color: #e4f9f5;
+position: relative;
+padding-top: 100px;
+}
+.upper{
+    background-color: coral;
+    display: inline-block;
+    width: 200px;
+    height: 200px; 
+    border: solid 10px;
+ 
+
+}
+.middle{
+background-color: darkgreen;
+display: inline-block;
+position: relative;
+width: 200px;
+height: 200px; 
+border: solid 10px;
+left:10px;
+right:200px;
+top:59px;
+
+
+
+
+
+}
+.lower{
+    display: inline-block;
+background-color: darkmagenta;
+background-color: darkgreen;
+width: 200px;
+height: 200px; 
+border: solid 10px;
+
+
+}
